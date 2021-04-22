@@ -108,12 +108,6 @@ class _MapsScreenState extends State<MapsScreen> {
                                 SizedBox(
                                   height: 20,
                                 ),
-                                Text(
-                                  "Google Maps",
-                                  style: TextStyle(
-                                      fontSize: 22,
-                                      fontWeight: FontWeight.bold),
-                                ),
                                 SizedBox(
                                   height: 30,
                                 ),
